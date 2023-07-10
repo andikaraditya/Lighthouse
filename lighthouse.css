@@ -1,0 +1,59 @@
+body {
+    background-color: #B0DAFF;
+    font-family: 'Oswald', sans-serif;
+    letter-spacing: .2rem;
+}
+
+#mainNavbar {
+    font-size: 1.2rem;
+}
+
+#mainNavbar .nav-link {
+    color: white;
+} 
+
+#mainNavbar .nav-link:hover {
+    color: #B0DAFF;
+} 
+
+#mainNavbar .navbar-brand {
+    color: #B0DAFF;
+    font-size: 1.5rem;
+}
+
+Header {
+    background-color: white;
+}
+
+img {
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+}
+
+#Pg-Light {
+    object-position: 70% 0;
+}
+
+#Le-Light {
+    object-position: 20% 0;
+}
+
+h1 {
+    font-size: 4rem;
+    color: #B0DAFF;
+    line-height: 5rem;
+}
+
+p {
+    line-height: 1.5rem;
+}
+
+header div {
+    color: #B0DAFF;
+}
+
+/* @media (max-width: 1000px) {
+    h1 {
+        font-size: 3rem;
+    }
+} */
