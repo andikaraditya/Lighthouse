@@ -40,20 +40,25 @@ img {
 
 h1 {
     font-size: 4rem;
-    color: #B0DAFF;
+    color: #212529;
     line-height: 5rem;
+}
+
+header div {
+    color: #212529;
 }
 
 p {
     line-height: 1.5rem;
 }
 
-header div {
-    color: #B0DAFF;
+.article {
+    max-width: 80%;
+    margin: auto;
 }
 
-/* @media (max-width: 1000px) {
-    h1 {
-        font-size: 3rem;
+@media (max-width: 992px) {
+    .article {
+        max-width: 65%;
     }
-} */
+}
